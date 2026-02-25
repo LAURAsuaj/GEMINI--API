@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\GEMINI -API\env
+set VIRTUAL_ENV=C:\Users\USUARIO.DESKTOP-64OMC89\Downloads\gemini\GEMINI--API\env
 
 if not defined PROMPT set PROMPT=$P$G
 
